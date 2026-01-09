@@ -22,19 +22,24 @@
       <td width="50%" valign="top">
         
 ```python
-class DataScientist:
+class TechEnthusiast:
     def __init__(self):
         self.name = "Md Shahriar Rahman Bhuiyan"
-        self.role = "AI/ML Engineer & Full-Stack Developer"
+        self.roles = ["AI/ML Engineer", "Full-Stack Developer", "Researcher", "Problem Solver"]
         self.education = "B.Sc. in CSE @ AUST"
         self.location = "Dhaka, Bangladesh"
-        self.interests = ["Web/App Development","Deep Learning",
-        "NLP","Computer Vision","LLM/AI Agents"]
+        self.expertise = {
+            "AI/ML": ["Deep Learning", "NLP", "Computer Vision"],
+            "Development": ["Web Apps", "Mobile Apps", "Backend"],
+            "Research": ["Published Papers", "Ongoing Projects"],
+            "Languages": ["Python", "C++", "JavaScript", "Dart"]
+        }
         
     def say_hi(self):
-        print("Thanks for visiting! Let's innovate together!")
+        print("Thanks for visiting! I love exploring diverse technologies!")
+        print("Let's build something amazing together! 🚀")
 
-me = DataScientist()
+me = TechEnthusiast()
 me.say_hi()
 ```
     
