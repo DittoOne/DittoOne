@@ -42,7 +42,7 @@ me.say_hi()
       
   </td>
       <td width="50%" valign="top">
-        <img src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://miro.medium.com/v2/resize:fit:786/format:webp/1*d8qjKITXNdQ5reRbo3_q8g.gif)" width="100%" />
+        <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*d8qjKITXNdQ5reRbo3_q8g.gif" width="100%" />
       </td>
     </tr>
   </table>
