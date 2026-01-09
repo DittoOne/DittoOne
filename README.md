@@ -25,7 +25,8 @@
 class TechEnthusiast:
     def __init__(self):
         self.name = "Md Shahriar Rahman Bhuiyan"
-        self.roles = ["AI/ML Engineer", "Full-Stack Developer", "Researcher", "Problem Solver"]
+        self.roles = ["AI/ML Engineer", "Full-Stack Developer",
+        "Researcher", "Problem Solver"]
         self.education = "B.Sc. in CSE @ AUST"
         self.location = "Dhaka, Bangladesh"
         self.expertise = {
