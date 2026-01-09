@@ -16,10 +16,10 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 👨‍💻 About Me
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
 ```python
 class DataScientist:
     def __init__(self):
@@ -34,6 +34,15 @@ class DataScientist:
 
 me = DataScientist()
 me.say_hi()
+```
+
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 ```
 
 - 🎓 **Computer Science Graduate** from AUST (CGPA: 3.642/4.00)
