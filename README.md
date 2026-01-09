@@ -31,13 +31,10 @@ class TechEnthusiast:
         self.location = "Dhaka, Bangladesh"
         self.expertise = {
             "AI/ML": ["Deep Learning", "NLP", "Computer Vision"],
-            "Development": ["Web Apps", "Mobile Apps", "Backend"],
-            "Research": ["Published Papers", "Ongoing Projects"],
-            "Languages": ["Python", "C++", "JavaScript", "Dart"]
+            "Development": ["Web Apps", "Mobile Apps", "Backend"]
         }
         
     def say_hi(self):
-        print("Thanks for visiting! I love exploring diverse technologies!")
         print("Let's build something amazing together! 🚀")
 
 me = TechEnthusiast()
