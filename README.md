@@ -57,7 +57,6 @@ me.say_hi()
 - 🎓 **Computer Science Graduate** from AUST (CGPA: 3.642/4.00)
 - 🔬 **Published Researcher** with 3+ publications in AI/ML
 - 🏆 **Champion** at AUST CSE Carnival 5.0 Software Exhibition
-- 🌱 Currently exploring **Multimodal Learning** & **Transformers**
 - 💬 Ask me about **Python, TensorFlow, Deep Learning, Web Development,App development**
 - 📫 Reach me: **diptobhuiyan1999@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code! ☕→💻**
