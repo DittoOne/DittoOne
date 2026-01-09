@@ -42,7 +42,7 @@ me.say_hi()
       
   </td>
       <td width="50%" valign="top">
-        <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*d8qjKITXNdQ5reRbo3_q8g.gif" width="100%" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVmb2N2MGN5cjd5eWV1YWNiZTI3YnBjM2R1bmtieGNpbWNjYjJ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif" width="100%" />
       </td>
     </tr>
   </table>
