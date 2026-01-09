@@ -28,7 +28,7 @@ class DataScientist:
         self.role = "AI/ML Engineer & Full-Stack Developer"
         self.education = "B.Sc. in CSE @ AUST"
         self.location = "Dhaka, Bangladesh"
-        self.interests = ["Deep Learning", "NLP", "Computer Vision"]
+        self.interests = ["Web/App Development","Deep Learning", "NLP", "Computer Vision","LLM/AI Agents"]
         
     def say_hi(self):
         print("Thanks for visiting! Let's innovate together!")
@@ -53,7 +53,7 @@ me.say_hi()
 - 🔬 **Published Researcher** with 3+ publications in AI/ML
 - 🏆 **Champion** at AUST CSE Carnival 5.0 Software Exhibition
 - 🌱 Currently exploring **Multimodal Learning** & **Transformers**
-- 💬 Ask me about **Python, TensorFlow, Deep Learning, Web Development**
+- 💬 Ask me about **Python, TensorFlow, Deep Learning, Web Development,App development**
 - 📫 Reach me: **diptobhuiyan1999@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code! ☕→💻**
 
