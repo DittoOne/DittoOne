@@ -119,29 +119,7 @@ me.say_hi()
 
 ---
 
-## 📚 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/DittoOne/BangloreHomePricePredictionModel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DittoOne&repo=BangloreHomePricePredictionModel&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/DittoOne/sportPersonClassifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DittoOne&repo=sportPersonClassifier&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/DittoOne/Bhromon-Smart-Travel-Guide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DittoOne&repo=Bhromon-Smart-Travel-Guide&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/DittoOne/HomeHutBD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DittoOne&repo=HomeHutBD&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" />
-</a>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
