@@ -30,7 +30,8 @@ class TechEnthusiast:
         self.education = "B.Sc. in CSE @ AUST"
         self.location = "Dhaka, Bangladesh"
         self.expertise = {
-            "AI/ML": ["Deep Learning", "NLP", "Computer Vision"],
+            "AI/ML": ["Deep Learning", "NLP", "Computer Vision",
+            "LLM/AI Agents"],
             "Development": ["Web Apps", "Mobile Apps", "Backend"]
         }
         
