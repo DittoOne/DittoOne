@@ -28,7 +28,8 @@ class DataScientist:
         self.role = "AI/ML Engineer & Full-Stack Developer"
         self.education = "B.Sc. in CSE @ AUST"
         self.location = "Dhaka, Bangladesh"
-        self.interests = ["Web/App Development","Deep Learning", "NLP", "Computer Vision","LLM/AI Agents"]
+        self.interests = ["Web/App Development","Deep Learning",
+        "NLP","Computer Vision","LLM/AI Agents"]
         
     def say_hi(self):
         print("Thanks for visiting! Let's innovate together!")
